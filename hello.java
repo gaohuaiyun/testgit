@@ -7,10 +7,11 @@ public class hello{
 			if("start".equalsIgnoreCase(test)){
 				System.out.println(getnum());
 			}else{
-				System.out.println("û�и�ָ�");
+				System.out.println("Ã»ÓÐ¸ÃÖ¸Áî£¡");
 			}
 		}
 	}
+	//获取1-6之间的随机数
 	public static int getnum(){
 		Random rm = new Random();
 		return rm.nextInt(6) + 1;
