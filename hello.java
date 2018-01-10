@@ -4,7 +4,7 @@ public class hello{
 		Scanner s = new Scanner(System.in);
 		while(true){
 			String test = s.nextLine();
-			if("start"){
+			if("start".equalsIgnore(test)){
 				System.out.println(getnum());
 			}else{
 				System.out.println("没有该指令！");
