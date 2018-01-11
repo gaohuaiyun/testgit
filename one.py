@@ -1,6 +1,6 @@
 #!/usr/bin/python
-# -*- coding:UTF-8 -*-
-#ж–‡деђЌепјone.py
+#coding=UTF-8
+#ОДјюГыЈєone.py
 
 
 if True:
